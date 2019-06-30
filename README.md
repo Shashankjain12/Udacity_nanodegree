@@ -9,4 +9,4 @@ This course will be divided into two parts:-
 
 -> Second, For the code along part where I will be creating certain codes using the Python on growing Library using Pytorch
    
-
+In this course I will be working for my active contribution daily for #60daysofudacity which will be my pledge in order for daily learning and contributing
